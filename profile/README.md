@@ -1,4 +1,5 @@
-## Welcome to the team 🙌
+## Next generation applications ⚡
+We build perfectly ui and high function for both web and mobile
 
 <!--
 
