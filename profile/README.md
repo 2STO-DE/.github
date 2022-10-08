@@ -1,5 +1,5 @@
 ## Next generation applications ⚡
-We build perfectly ui and high function for both web and mobile
+We build perfectly ui and high function app for web and mobile
 
 <!--
 
